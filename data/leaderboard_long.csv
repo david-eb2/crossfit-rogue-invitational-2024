@@ -1,0 +1,474 @@
+Athlete,Division,Event_ID,Event Type,Intensity Level,Day,Placement
+Tia-Clair Toomey-Orr,Women,,,,,1.0
+Laura Horvath,Women,,,,,2.0
+Arielle Loewen,Women,,,,,3.0
+Alex Gazan,Women,,,,,4.0
+Brooke Wells,Women,,,,,5.0
+Emma Tall,Women,,,,,6.0
+Dani Speegle,Women,,,,,7.0
+Gabriela Migała,Women,,,,,8.0
+Manon Angonese,Women,,,,,9.0
+Madeline Sturt,Women,,,,,10.0
+Danielle Brandon,Women,,,,,11.0
+Emily Rolfe,Women,,,,,12.0
+Paige Semenza,Women,,,,,13.0
+Sydney Wells,Women,,,,,14.0
+Amanda Barnhart,Women,,,,,15.0
+Haley Adams,Women,,,,,16.0
+Dana Paran,Women,,,,,17.0
+Taylor Williamson,Women,,,,,18.0
+Tayla Howe,Women,,,,,19.0
+Emma McQuaid,Women,,,,,20.0
+Jeff Adler,Men,,,,,1.0
+Brent Fikowski,Men,,,,,2.0
+Jayson Hopper,Men,,,,,3.0
+Ricky Garard,Men,,,,,4.0
+Dallin Pepper,Men,,,,,5.0
+Jay Crouch,Men,,,,,6.0
+Guilherme Malheiros,Men,,,,,7.0
+Justin Medeiros,Men,,,,,8.0
+Patrick Vellner,Men,,,,,9.0
+Jonne Koski,Men,,,,,10.0
+James Sprague,Men,,,,,11.0
+Chandler Smith,Men,,,,,12.0
+Jorge Fernandez,Men,,,,,13.0
+Samuel Kwant,Men,,,,,14.0
+Sam Cournoyer,Men,,,,,15.0
+Björgvin Karl Guðmundsson,Men,,,,,16.0
+Saxon Panchik,Men,,,,,17.0
+Henrik Haapalainen,Men,,,,,18.0
+Noah Ohlsen,Men,,,,,19.0
+Giorgos Karavis,Men,,,,,20.0
+Tia-Clair Toomey-Orr,Women,E1,Endurance,4.0,Friday,1.0
+Laura Horvath,Women,E1,Endurance,4.0,Friday,4.0
+Arielle Loewen,Women,E1,Endurance,4.0,Friday,12.0
+Alex Gazan,Women,E1,Endurance,4.0,Friday,13.0
+Brooke Wells,Women,E1,Endurance,4.0,Friday,6.0
+Emma Tall,Women,E1,Endurance,4.0,Friday,8.0
+Dani Speegle,Women,E1,Endurance,4.0,Friday,18.0
+Gabriela Migała,Women,E1,Endurance,4.0,Friday,2.0
+Manon Angonese,Women,E1,Endurance,4.0,Friday,15.0
+Madeline Sturt,Women,E1,Endurance,4.0,Friday,9.0
+Danielle Brandon,Women,E1,Endurance,4.0,Friday,7.0
+Emily Rolfe,Women,E1,Endurance,4.0,Friday,3.0
+Paige Semenza,Women,E1,Endurance,4.0,Friday,10.0
+Sydney Wells,Women,E1,Endurance,4.0,Friday,11.0
+Amanda Barnhart,Women,E1,Endurance,4.0,Friday,14.0
+Haley Adams,Women,E1,Endurance,4.0,Friday,5.0
+Dana Paran,Women,E1,Endurance,4.0,Friday,20.0
+Taylor Williamson,Women,E1,Endurance,4.0,Friday,19.0
+Tayla Howe,Women,E1,Endurance,4.0,Friday,17.0
+Emma McQuaid,Women,E1,Endurance,4.0,Friday,16.0
+Jeff Adler,Men,E1,Endurance,4.0,Friday,2.0
+Brent Fikowski,Men,E1,Endurance,4.0,Friday,5.0
+Jayson Hopper,Men,E1,Endurance,4.0,Friday,3.0
+Ricky Garard,Men,E1,Endurance,4.0,Friday,1.0
+Dallin Pepper,Men,E1,Endurance,4.0,Friday,10.0
+Jay Crouch,Men,E1,Endurance,4.0,Friday,11.0
+Guilherme Malheiros,Men,E1,Endurance,4.0,Friday,20.0
+Justin Medeiros,Men,E1,Endurance,4.0,Friday,15.0
+Patrick Vellner,Men,E1,Endurance,4.0,Friday,9.0
+Jonne Koski,Men,E1,Endurance,4.0,Friday,16.0
+James Sprague,Men,E1,Endurance,4.0,Friday,4.0
+Chandler Smith,Men,E1,Endurance,4.0,Friday,8.0
+Jorge Fernandez,Men,E1,Endurance,4.0,Friday,12.0
+Samuel Kwant,Men,E1,Endurance,4.0,Friday,17.0
+Sam Cournoyer,Men,E1,Endurance,4.0,Friday,6.0
+Björgvin Karl Guðmundsson,Men,E1,Endurance,4.0,Friday,13.0
+Saxon Panchik,Men,E1,Endurance,4.0,Friday,14.0
+Henrik Haapalainen,Men,E1,Endurance,4.0,Friday,7.0
+Noah Ohlsen,Men,E1,Endurance,4.0,Friday,18.0
+Giorgos Karavis,Men,E1,Endurance,4.0,Friday,19.0
+Tia-Clair Toomey-Orr,Women,E2,Mixed (Sprint & Strength),5.0,Friday,1.0
+Laura Horvath,Women,E2,Mixed (Sprint & Strength),5.0,Friday,3.0
+Arielle Loewen,Women,E2,Mixed (Sprint & Strength),5.0,Friday,7.0
+Alex Gazan,Women,E2,Mixed (Sprint & Strength),5.0,Friday,11.0
+Brooke Wells,Women,E2,Mixed (Sprint & Strength),5.0,Friday,14.0
+Emma Tall,Women,E2,Mixed (Sprint & Strength),5.0,Friday,15.0
+Dani Speegle,Women,E2,Mixed (Sprint & Strength),5.0,Friday,12.0
+Gabriela Migała,Women,E2,Mixed (Sprint & Strength),5.0,Friday,2.0
+Manon Angonese,Women,E2,Mixed (Sprint & Strength),5.0,Friday,5.0
+Madeline Sturt,Women,E2,Mixed (Sprint & Strength),5.0,Friday,19.0
+Danielle Brandon,Women,E2,Mixed (Sprint & Strength),5.0,Friday,10.0
+Emily Rolfe,Women,E2,Mixed (Sprint & Strength),5.0,Friday,18.0
+Paige Semenza,Women,E2,Mixed (Sprint & Strength),5.0,Friday,9.0
+Sydney Wells,Women,E2,Mixed (Sprint & Strength),5.0,Friday,20.0
+Amanda Barnhart,Women,E2,Mixed (Sprint & Strength),5.0,Friday,13.0
+Haley Adams,Women,E2,Mixed (Sprint & Strength),5.0,Friday,6.0
+Dana Paran,Women,E2,Mixed (Sprint & Strength),5.0,Friday,8.0
+Taylor Williamson,Women,E2,Mixed (Sprint & Strength),5.0,Friday,4.0
+Tayla Howe,Women,E2,Mixed (Sprint & Strength),5.0,Friday,16.0
+Emma McQuaid,Women,E2,Mixed (Sprint & Strength),5.0,Friday,17.0
+Jeff Adler,Men,E2,Mixed (Sprint & Strength),5.0,Friday,5.0
+Brent Fikowski,Men,E2,Mixed (Sprint & Strength),5.0,Friday,3.0
+Jayson Hopper,Men,E2,Mixed (Sprint & Strength),5.0,Friday,4.0
+Ricky Garard,Men,E2,Mixed (Sprint & Strength),5.0,Friday,6.0
+Dallin Pepper,Men,E2,Mixed (Sprint & Strength),5.0,Friday,1.0
+Jay Crouch,Men,E2,Mixed (Sprint & Strength),5.0,Friday,17.0
+Guilherme Malheiros,Men,E2,Mixed (Sprint & Strength),5.0,Friday,2.0
+Justin Medeiros,Men,E2,Mixed (Sprint & Strength),5.0,Friday,16.0
+Patrick Vellner,Men,E2,Mixed (Sprint & Strength),5.0,Friday,9.0
+Jonne Koski,Men,E2,Mixed (Sprint & Strength),5.0,Friday,19.0
+James Sprague,Men,E2,Mixed (Sprint & Strength),5.0,Friday,10.0
+Chandler Smith,Men,E2,Mixed (Sprint & Strength),5.0,Friday,7.0
+Jorge Fernandez,Men,E2,Mixed (Sprint & Strength),5.0,Friday,13.0
+Samuel Kwant,Men,E2,Mixed (Sprint & Strength),5.0,Friday,8.0
+Sam Cournoyer,Men,E2,Mixed (Sprint & Strength),5.0,Friday,12.0
+Björgvin Karl Guðmundsson,Men,E2,Mixed (Sprint & Strength),5.0,Friday,15.0
+Saxon Panchik,Men,E2,Mixed (Sprint & Strength),5.0,Friday,18.0
+Henrik Haapalainen,Men,E2,Mixed (Sprint & Strength),5.0,Friday,14.0
+Noah Ohlsen,Men,E2,Mixed (Sprint & Strength),5.0,Friday,20.0
+Giorgos Karavis,Men,E2,Mixed (Sprint & Strength),5.0,Friday,11.0
+Tia-Clair Toomey-Orr,Women,E3,Strength,5.0,Friday,1.0
+Laura Horvath,Women,E3,Strength,5.0,Friday,14.0
+Arielle Loewen,Women,E3,Strength,5.0,Friday,7.0
+Alex Gazan,Women,E3,Strength,5.0,Friday,13.0
+Brooke Wells,Women,E3,Strength,5.0,Friday,2.0
+Emma Tall,Women,E3,Strength,5.0,Friday,15.0
+Dani Speegle,Women,E3,Strength,5.0,Friday,3.0
+Gabriela Migała,Women,E3,Strength,5.0,Friday,4.0
+Manon Angonese,Women,E3,Strength,5.0,Friday,9.0
+Madeline Sturt,Women,E3,Strength,5.0,Friday,8.0
+Danielle Brandon,Women,E3,Strength,5.0,Friday,20.0
+Emily Rolfe,Women,E3,Strength,5.0,Friday,11.0
+Paige Semenza,Women,E3,Strength,5.0,Friday,18.0
+Sydney Wells,Women,E3,Strength,5.0,Friday,5.0
+Amanda Barnhart,Women,E3,Strength,5.0,Friday,10.0
+Haley Adams,Women,E3,Strength,5.0,Friday,19.0
+Dana Paran,Women,E3,Strength,5.0,Friday,12.0
+Taylor Williamson,Women,E3,Strength,5.0,Friday,16.0
+Tayla Howe,Women,E3,Strength,5.0,Friday,6.0
+Emma McQuaid,Women,E3,Strength,5.0,Friday,17.0
+Jeff Adler,Men,E3,Strength,5.0,Friday,1.0
+Brent Fikowski,Men,E3,Strength,5.0,Friday,18.0
+Jayson Hopper,Men,E3,Strength,5.0,Friday,12.0
+Ricky Garard,Men,E3,Strength,5.0,Friday,11.0
+Dallin Pepper,Men,E3,Strength,5.0,Friday,8.0
+Jay Crouch,Men,E3,Strength,5.0,Friday,4.0
+Guilherme Malheiros,Men,E3,Strength,5.0,Friday,3.0
+Justin Medeiros,Men,E3,Strength,5.0,Friday,2.0
+Patrick Vellner,Men,E3,Strength,5.0,Friday,7.0
+Jonne Koski,Men,E3,Strength,5.0,Friday,10.0
+James Sprague,Men,E3,Strength,5.0,Friday,19.0
+Chandler Smith,Men,E3,Strength,5.0,Friday,6.0
+Jorge Fernandez,Men,E3,Strength,5.0,Friday,5.0
+Samuel Kwant,Men,E3,Strength,5.0,Friday,16.0
+Sam Cournoyer,Men,E3,Strength,5.0,Friday,13.0
+Björgvin Karl Guðmundsson,Men,E3,Strength,5.0,Friday,15.0
+Saxon Panchik,Men,E3,Strength,5.0,Friday,17.0
+Henrik Haapalainen,Men,E3,Strength,5.0,Friday,14.0
+Noah Ohlsen,Men,E3,Strength,5.0,Friday,9.0
+Giorgos Karavis,Men,E3,Strength,5.0,Friday,20.0
+Tia-Clair Toomey-Orr,Women,E4,Endurance,4.0,Saturday,1.0
+Laura Horvath,Women,E4,Endurance,4.0,Saturday,2.0
+Arielle Loewen,Women,E4,Endurance,4.0,Saturday,3.0
+Alex Gazan,Women,E4,Endurance,4.0,Saturday,4.0
+Brooke Wells,Women,E4,Endurance,4.0,Saturday,17.0
+Emma Tall,Women,E4,Endurance,4.0,Saturday,7.0
+Dani Speegle,Women,E4,Endurance,4.0,Saturday,13.0
+Gabriela Migała,Women,E4,Endurance,4.0,Saturday,9.0
+Manon Angonese,Women,E4,Endurance,4.0,Saturday,8.0
+Madeline Sturt,Women,E4,Endurance,4.0,Saturday,5.0
+Danielle Brandon,Women,E4,Endurance,4.0,Saturday,11.0
+Emily Rolfe,Women,E4,Endurance,4.0,Saturday,15.0
+Paige Semenza,Women,E4,Endurance,4.0,Saturday,10.0
+Sydney Wells,Women,E4,Endurance,4.0,Saturday,20.0
+Amanda Barnhart,Women,E4,Endurance,4.0,Saturday,6.0
+Haley Adams,Women,E4,Endurance,4.0,Saturday,19.0
+Dana Paran,Women,E4,Endurance,4.0,Saturday,16.0
+Taylor Williamson,Women,E4,Endurance,4.0,Saturday,18.0
+Tayla Howe,Women,E4,Endurance,4.0,Saturday,14.0
+Emma McQuaid,Women,E4,Endurance,4.0,Saturday,12.0
+Jeff Adler,Men,E4,Endurance,4.0,Saturday,3.0
+Brent Fikowski,Men,E4,Endurance,4.0,Saturday,6.0
+Jayson Hopper,Men,E4,Endurance,4.0,Saturday,19.0
+Ricky Garard,Men,E4,Endurance,4.0,Saturday,1.0
+Dallin Pepper,Men,E4,Endurance,4.0,Saturday,2.0
+Jay Crouch,Men,E4,Endurance,4.0,Saturday,4.0
+Guilherme Malheiros,Men,E4,Endurance,4.0,Saturday,10.0
+Justin Medeiros,Men,E4,Endurance,4.0,Saturday,7.0
+Patrick Vellner,Men,E4,Endurance,4.0,Saturday,8.0
+Jonne Koski,Men,E4,Endurance,4.0,Saturday,5.0
+James Sprague,Men,E4,Endurance,4.0,Saturday,20.0
+Chandler Smith,Men,E4,Endurance,4.0,Saturday,12.0
+Jorge Fernandez,Men,E4,Endurance,4.0,Saturday,13.0
+Samuel Kwant,Men,E4,Endurance,4.0,Saturday,15.0
+Sam Cournoyer,Men,E4,Endurance,4.0,Saturday,11.0
+Björgvin Karl Guðmundsson,Men,E4,Endurance,4.0,Saturday,9.0
+Saxon Panchik,Men,E4,Endurance,4.0,Saturday,17.0
+Henrik Haapalainen,Men,E4,Endurance,4.0,Saturday,18.0
+Noah Ohlsen,Men,E4,Endurance,4.0,Saturday,16.0
+Giorgos Karavis,Men,E4,Endurance,4.0,Saturday,14.0
+Tia-Clair Toomey-Orr,Women,E5,Strength,3.0,Saturday,2.0
+Laura Horvath,Women,E5,Strength,3.0,Saturday,1.0
+Arielle Loewen,Women,E5,Strength,3.0,Saturday,16.0
+Alex Gazan,Women,E5,Strength,3.0,Saturday,7.0
+Brooke Wells,Women,E5,Strength,3.0,Saturday,5.0
+Emma Tall,Women,E5,Strength,3.0,Saturday,4.0
+Dani Speegle,Women,E5,Strength,3.0,Saturday,10.0
+Gabriela Migała,Women,E5,Strength,3.0,Saturday,3.0
+Manon Angonese,Women,E5,Strength,3.0,Saturday,13.0
+Madeline Sturt,Women,E5,Strength,3.0,Saturday,9.0
+Danielle Brandon,Women,E5,Strength,3.0,Saturday,11.0
+Emily Rolfe,Women,E5,Strength,3.0,Saturday,6.0
+Paige Semenza,Women,E5,Strength,3.0,Saturday,14.0
+Sydney Wells,Women,E5,Strength,3.0,Saturday,8.0
+Amanda Barnhart,Women,E5,Strength,3.0,Saturday,17.0
+Haley Adams,Women,E5,Strength,3.0,Saturday,15.0
+Dana Paran,Women,E5,Strength,3.0,Saturday,20.0
+Taylor Williamson,Women,E5,Strength,3.0,Saturday,12.0
+Tayla Howe,Women,E5,Strength,3.0,Saturday,19.0
+Emma McQuaid,Women,E5,Strength,3.0,Saturday,18.0
+Jeff Adler,Men,E5,Strength,3.0,Saturday,2.0
+Brent Fikowski,Men,E5,Strength,3.0,Saturday,4.0
+Jayson Hopper,Men,E5,Strength,3.0,Saturday,1.0
+Ricky Garard,Men,E5,Strength,3.0,Saturday,3.0
+Dallin Pepper,Men,E5,Strength,3.0,Saturday,5.0
+Jay Crouch,Men,E5,Strength,3.0,Saturday,12.0
+Guilherme Malheiros,Men,E5,Strength,3.0,Saturday,10.0
+Justin Medeiros,Men,E5,Strength,3.0,Saturday,8.0
+Patrick Vellner,Men,E5,Strength,3.0,Saturday,11.0
+Jonne Koski,Men,E5,Strength,3.0,Saturday,7.0
+James Sprague,Men,E5,Strength,3.0,Saturday,9.0
+Chandler Smith,Men,E5,Strength,3.0,Saturday,16.0
+Jorge Fernandez,Men,E5,Strength,3.0,Saturday,19.0
+Samuel Kwant,Men,E5,Strength,3.0,Saturday,15.0
+Sam Cournoyer,Men,E5,Strength,3.0,Saturday,14.0
+Björgvin Karl Guðmundsson,Men,E5,Strength,3.0,Saturday,17.0
+Saxon Panchik,Men,E5,Strength,3.0,Saturday,13.0
+Henrik Haapalainen,Men,E5,Strength,3.0,Saturday,6.0
+Noah Ohlsen,Men,E5,Strength,3.0,Saturday,18.0
+Giorgos Karavis,Men,E5,Strength,3.0,Saturday,20.0
+Tia-Clair Toomey-Orr,Women,E6,Strength,3.0,Saturday,8.0
+Laura Horvath,Women,E6,Strength,3.0,Saturday,1.0
+Arielle Loewen,Women,E6,Strength,3.0,Saturday,9.0
+Alex Gazan,Women,E6,Strength,3.0,Saturday,6.0
+Brooke Wells,Women,E6,Strength,3.0,Saturday,19.0
+Emma Tall,Women,E6,Strength,3.0,Saturday,2.0
+Dani Speegle,Women,E6,Strength,3.0,Saturday,18.0
+Gabriela Migała,Women,E6,Strength,3.0,Saturday,10.0
+Manon Angonese,Women,E6,Strength,3.0,Saturday,7.0
+Madeline Sturt,Women,E6,Strength,3.0,Saturday,13.0
+Danielle Brandon,Women,E6,Strength,3.0,Saturday,3.0
+Emily Rolfe,Women,E6,Strength,3.0,Saturday,15.0
+Paige Semenza,Women,E6,Strength,3.0,Saturday,5.0
+Sydney Wells,Women,E6,Strength,3.0,Saturday,14.0
+Amanda Barnhart,Women,E6,Strength,3.0,Saturday,12.0
+Haley Adams,Women,E6,Strength,3.0,Saturday,11.0
+Dana Paran,Women,E6,Strength,3.0,Saturday,4.0
+Taylor Williamson,Women,E6,Strength,3.0,Saturday,20.0
+Tayla Howe,Women,E6,Strength,3.0,Saturday,17.0
+Emma McQuaid,Women,E6,Strength,3.0,Saturday,16.0
+Jeff Adler,Men,E6,Strength,3.0,Saturday,9.0
+Brent Fikowski,Men,E6,Strength,3.0,Saturday,2.0
+Jayson Hopper,Men,E6,Strength,3.0,Saturday,6.0
+Ricky Garard,Men,E6,Strength,3.0,Saturday,8.0
+Dallin Pepper,Men,E6,Strength,3.0,Saturday,10.0
+Jay Crouch,Men,E6,Strength,3.0,Saturday,3.0
+Guilherme Malheiros,Men,E6,Strength,3.0,Saturday,1.0
+Justin Medeiros,Men,E6,Strength,3.0,Saturday,12.0
+Patrick Vellner,Men,E6,Strength,3.0,Saturday,4.0
+Jonne Koski,Men,E6,Strength,3.0,Saturday,16.0
+James Sprague,Men,E6,Strength,3.0,Saturday,5.0
+Chandler Smith,Men,E6,Strength,3.0,Saturday,18.0
+Jorge Fernandez,Men,E6,Strength,3.0,Saturday,7.0
+Samuel Kwant,Men,E6,Strength,3.0,Saturday,11.0
+Sam Cournoyer,Men,E6,Strength,3.0,Saturday,20.0
+Björgvin Karl Guðmundsson,Men,E6,Strength,3.0,Saturday,13.0
+Saxon Panchik,Men,E6,Strength,3.0,Saturday,17.0
+Henrik Haapalainen,Men,E6,Strength,3.0,Saturday,15.0
+Noah Ohlsen,Men,E6,Strength,3.0,Saturday,14.0
+Giorgos Karavis,Men,E6,Strength,3.0,Saturday,19.0
+Tia-Clair Toomey-Orr,Women,E6,Strength,3.0,Saturday,3.0
+Laura Horvath,Women,E6,Strength,3.0,Saturday,5.0
+Arielle Loewen,Women,E6,Strength,3.0,Saturday,3.0
+Alex Gazan,Women,E6,Strength,3.0,Saturday,3.0
+Brooke Wells,Women,E6,Strength,3.0,Saturday,1.0
+Emma Tall,Women,E6,Strength,3.0,Saturday,5.0
+Dani Speegle,Women,E6,Strength,3.0,Saturday,1.0
+Gabriela Migała,Women,E6,Strength,3.0,Saturday,3.0
+Manon Angonese,Women,E6,Strength,3.0,Saturday,3.0
+Madeline Sturt,Women,E6,Strength,3.0,Saturday,2.0
+Danielle Brandon,Women,E6,Strength,3.0,Saturday,4.0
+Emily Rolfe,Women,E6,Strength,3.0,Saturday,2.0
+Paige Semenza,Women,E6,Strength,3.0,Saturday,4.0
+Sydney Wells,Women,E6,Strength,3.0,Saturday,2.0
+Amanda Barnhart,Women,E6,Strength,3.0,Saturday,2.0
+Haley Adams,Women,E6,Strength,3.0,Saturday,2.0
+Dana Paran,Women,E6,Strength,3.0,Saturday,4.0
+Taylor Williamson,Women,E6,Strength,3.0,Saturday,1.0
+Tayla Howe,Women,E6,Strength,3.0,Saturday,1.0
+Emma McQuaid,Women,E6,Strength,3.0,Saturday,1.0
+Jeff Adler,Men,E6,Strength,3.0,Saturday,3.0
+Brent Fikowski,Men,E6,Strength,3.0,Saturday,5.0
+Jayson Hopper,Men,E6,Strength,3.0,Saturday,3.0
+Ricky Garard,Men,E6,Strength,3.0,Saturday,3.0
+Dallin Pepper,Men,E6,Strength,3.0,Saturday,3.0
+Jay Crouch,Men,E6,Strength,3.0,Saturday,4.0
+Guilherme Malheiros,Men,E6,Strength,3.0,Saturday,5.0
+Justin Medeiros,Men,E6,Strength,3.0,Saturday,2.0
+Patrick Vellner,Men,E6,Strength,3.0,Saturday,4.0
+Jonne Koski,Men,E6,Strength,3.0,Saturday,1.0
+James Sprague,Men,E6,Strength,3.0,Saturday,4.0
+Chandler Smith,Men,E6,Strength,3.0,Saturday,1.0
+Jorge Fernandez,Men,E6,Strength,3.0,Saturday,3.0
+Samuel Kwant,Men,E6,Strength,3.0,Saturday,2.0
+Sam Cournoyer,Men,E6,Strength,3.0,Saturday,1.0
+Björgvin Karl Guðmundsson,Men,E6,Strength,3.0,Saturday,2.0
+Saxon Panchik,Men,E6,Strength,3.0,Saturday,1.0
+Henrik Haapalainen,Men,E6,Strength,3.0,Saturday,1.0
+Noah Ohlsen,Men,E6,Strength,3.0,Saturday,2.0
+Giorgos Karavis,Men,E6,Strength,3.0,Saturday,1.0
+Tia-Clair Toomey-Orr,Women,E6,Strength,3.0,Saturday,40.56
+Laura Horvath,Women,E6,Strength,3.0,Saturday,36.15
+Arielle Loewen,Women,E6,Strength,3.0,Saturday,42.27
+Alex Gazan,Women,E6,Strength,3.0,Saturday,39.57
+Brooke Wells,Women,E6,Strength,3.0,Saturday,54.23
+Emma Tall,Women,E6,Strength,3.0,Saturday,39.79
+Dani Speegle,Women,E6,Strength,3.0,Saturday,49.12
+Manon Angonese,Women,E6,Strength,3.0,Saturday,40.53
+Madeline Sturt,Women,E6,Strength,3.0,Saturday,43.84
+Danielle Brandon,Women,E6,Strength,3.0,Saturday,37.93
+Emily Rolfe,Women,E6,Strength,3.0,Saturday,52.9
+Paige Semenza,Women,E6,Strength,3.0,Saturday,40.8
+Sydney Wells,Women,E6,Strength,3.0,Saturday,52.14
+Amanda Barnhart,Women,E6,Strength,3.0,Saturday,43.28
+Haley Adams,Women,E6,Strength,3.0,Saturday,42.37
+Dana Paran,Women,E6,Strength,3.0,Saturday,38.72
+Taylor Williamson,Women,E6,Strength,3.0,Saturday,55.7
+Tayla Howe,Women,E6,Strength,3.0,Saturday,47.07
+Emma McQuaid,Women,E6,Strength,3.0,Saturday,45.11
+Jeff Adler,Men,E6,Strength,3.0,Saturday,37.94
+Brent Fikowski,Men,E6,Strength,3.0,Saturday,38.46
+Jayson Hopper,Men,E6,Strength,3.0,Saturday,37.28
+Ricky Garard,Men,E6,Strength,3.0,Saturday,37.89
+Dallin Pepper,Men,E6,Strength,3.0,Saturday,38.08
+Jay Crouch,Men,E6,Strength,3.0,Saturday,36.64
+Guilherme Malheiros,Men,E6,Strength,3.0,Saturday,35.77
+Justin Medeiros,Men,E6,Strength,3.0,Saturday,33.79
+Patrick Vellner,Men,E6,Strength,3.0,Saturday,36.97
+Jonne Koski,Men,E6,Strength,3.0,Saturday,36.82
+James Sprague,Men,E6,Strength,3.0,Saturday,46.28
+Chandler Smith,Men,E6,Strength,3.0,Saturday,38.76
+Jorge Fernandez,Men,E6,Strength,3.0,Saturday,37.64
+Samuel Kwant,Men,E6,Strength,3.0,Saturday,32.74
+Sam Cournoyer,Men,E6,Strength,3.0,Saturday,45.71
+Björgvin Karl Guðmundsson,Men,E6,Strength,3.0,Saturday,34.9
+Saxon Panchik,Men,E6,Strength,3.0,Saturday,38.43
+Henrik Haapalainen,Men,E6,Strength,3.0,Saturday,34.0
+Noah Ohlsen,Men,E6,Strength,3.0,Saturday,44.52
+Giorgos Karavis,Men,E6,Strength,3.0,Saturday,40.88
+Tia-Clair Toomey-Orr,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,2.0
+Laura Horvath,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,1.0
+Arielle Loewen,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,11.0
+Alex Gazan,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,3.0
+Brooke Wells,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,10.0
+Emma Tall,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,16.0
+Dani Speegle,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,7.0
+Manon Angonese,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,5.0
+Madeline Sturt,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,4.0
+Danielle Brandon,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,16.0
+Emily Rolfe,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,13.0
+Paige Semenza,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,15.0
+Sydney Wells,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,6.0
+Amanda Barnhart,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,12.0
+Haley Adams,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,16.0
+Dana Paran,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,8.0
+Taylor Williamson,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,9.0
+Tayla Howe,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,19.0
+Emma McQuaid,Women,E7,Mixed (Endurance & Skill),4.0,Sunday,14.0
+Jeff Adler,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,5.0
+Brent Fikowski,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,1.0
+Jayson Hopper,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,3.0
+Ricky Garard,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,13.0
+Dallin Pepper,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,14.0
+Jay Crouch,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,2.0
+Guilherme Malheiros,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,8.0
+Justin Medeiros,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,9.0
+Patrick Vellner,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,11.0
+Jonne Koski,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,4.0
+James Sprague,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,17.0
+Chandler Smith,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,6.0
+Jorge Fernandez,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,15.0
+Samuel Kwant,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,18.0
+Sam Cournoyer,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,16.0
+Björgvin Karl Guðmundsson,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,12.0
+Saxon Panchik,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,7.0
+Noah Ohlsen,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,10.0
+Giorgos Karavis,Men,E7,Mixed (Endurance & Skill),4.0,Sunday,19.0
+Tia-Clair Toomey-Orr,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,2.0
+Laura Horvath,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,1.0
+Arielle Loewen,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,7.0
+Alex Gazan,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,13.0
+Brooke Wells,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,3.0
+Emma Tall,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,11.0
+Dani Speegle,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,6.0
+Manon Angonese,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,17.0
+Madeline Sturt,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,14.0
+Danielle Brandon,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,4.0
+Emily Rolfe,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,9.0
+Paige Semenza,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,12.0
+Sydney Wells,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,5.0
+Amanda Barnhart,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,8.0
+Haley Adams,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,15.0
+Dana Paran,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,19.0
+Taylor Williamson,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,16.0
+Tayla Howe,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,10.0
+Emma McQuaid,Women,E8,Mixed (Endurance & Strength),4.0,Sunday,18.0
+Jeff Adler,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,8.0
+Brent Fikowski,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,4.0
+Jayson Hopper,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,6.0
+Ricky Garard,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,10.0
+Dallin Pepper,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,7.0
+Jay Crouch,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,2.0
+Guilherme Malheiros,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,12.0
+Justin Medeiros,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,1.0
+Patrick Vellner,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,15.0
+Jonne Koski,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,9.0
+James Sprague,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,3.0
+Chandler Smith,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,16.0
+Jorge Fernandez,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,19.0
+Samuel Kwant,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,11.0
+Sam Cournoyer,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,13.0
+Björgvin Karl Guðmundsson,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,17.0
+Saxon Panchik,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,5.0
+Noah Ohlsen,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,14.0
+Giorgos Karavis,Men,E8,Mixed (Endurance & Strength),4.0,Sunday,18.0
+Tia-Clair Toomey-Orr,Women,E9,Strength,5.0,Sunday,1.0
+Laura Horvath,Women,E9,Strength,5.0,Sunday,4.0
+Arielle Loewen,Women,E9,Strength,5.0,Sunday,3.0
+Alex Gazan,Women,E9,Strength,5.0,Sunday,6.0
+Brooke Wells,Women,E9,Strength,5.0,Sunday,5.0
+Emma Tall,Women,E9,Strength,5.0,Sunday,10.0
+Dani Speegle,Women,E9,Strength,5.0,Sunday,2.0
+Manon Angonese,Women,E9,Strength,5.0,Sunday,14.0
+Madeline Sturt,Women,E9,Strength,5.0,Sunday,13.0
+Danielle Brandon,Women,E9,Strength,5.0,Sunday,16.0
+Emily Rolfe,Women,E9,Strength,5.0,Sunday,9.0
+Paige Semenza,Women,E9,Strength,5.0,Sunday,8.0
+Sydney Wells,Women,E9,Strength,5.0,Sunday,11.0
+Amanda Barnhart,Women,E9,Strength,5.0,Sunday,12.0
+Haley Adams,Women,E9,Strength,5.0,Sunday,7.0
+Dana Paran,Women,E9,Strength,5.0,Sunday,17.0
+Taylor Williamson,Women,E9,Strength,5.0,Sunday,15.0
+Tayla Howe,Women,E9,Strength,5.0,Sunday,18.0
+Emma McQuaid,Women,E9,Strength,5.0,Sunday,19.0
+Jeff Adler,Men,E9,Strength,5.0,Sunday,4.0
+Brent Fikowski,Men,E9,Strength,5.0,Sunday,3.0
+Jayson Hopper,Men,E9,Strength,5.0,Sunday,1.0
+Ricky Garard,Men,E9,Strength,5.0,Sunday,6.0
+Dallin Pepper,Men,E9,Strength,5.0,Sunday,2.0
+Jay Crouch,Men,E9,Strength,5.0,Sunday,14.0
+Guilherme Malheiros,Men,E9,Strength,5.0,Sunday,9.0
+Justin Medeiros,Men,E9,Strength,5.0,Sunday,17.0
+Patrick Vellner,Men,E9,Strength,5.0,Sunday,13.0
+Jonne Koski,Men,E9,Strength,5.0,Sunday,8.0
+James Sprague,Men,E9,Strength,5.0,Sunday,10.0
+Chandler Smith,Men,E9,Strength,5.0,Sunday,18.0
+Jorge Fernandez,Men,E9,Strength,5.0,Sunday,7.0
+Samuel Kwant,Men,E9,Strength,5.0,Sunday,5.0
+Sam Cournoyer,Men,E9,Strength,5.0,Sunday,12.0
+Björgvin Karl Guðmundsson,Men,E9,Strength,5.0,Sunday,11.0
+Saxon Panchik,Men,E9,Strength,5.0,Sunday,15.0
+Noah Ohlsen,Men,E9,Strength,5.0,Sunday,19.0
+Giorgos Karavis,Men,E9,Strength,5.0,Sunday,16.0
